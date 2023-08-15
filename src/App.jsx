@@ -5,7 +5,14 @@ import Nav from './components/NavTabs';
 function App() {
   return (
     <>
-      <Nav />
+    <navbar class="navbar navbar-expand-lg navbar-light bg-light">
+        <h1>Michaela Brown</h1>
+        <section class="navbar-nav mx-auto">
+        <Nav />
+        </section>
+
+    </navbar>
+
       <main className="mx-3">
         <Outlet />
       </main>
