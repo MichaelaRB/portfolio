@@ -1,7 +1,7 @@
 export default function About() {
     return (
-      <div>
-        <h1>About Me</h1>
+      <div class= "card bg-light w-50 text-center">
+        < h2 class="card-title">About Me</h2>
         <p>
           Two years ago I graduated from Washburn University with a bachelors of science in actuarial science and a minor in computer science.
           During my time at Washburn, I began to develop a love for programming. My original focus was on object oriented programming using Java,

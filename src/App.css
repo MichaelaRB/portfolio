@@ -4,3 +4,23 @@ img {
     margin-left: 10vw;
     padding-top: 10vw;
 }
+
+navbar {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 5vw;
+}
+
+navbar h1 {
+    padding-left: 2vw;
+    margin-right: 30vw;
+}
+
+navbar li {
+    color: white;
+    margin-left: 4vw;
+}
+
+.card {
+    padding: 5vw;
+    border-radius: 50%;
+}

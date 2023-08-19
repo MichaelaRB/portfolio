@@ -37,7 +37,7 @@ function NavTabs() {
           // Check to see if the currentPage is `Resume`
           className={currentPage === '/Resume' ? 'nav-link active' : 'nav-link'}
         >
-           Portfolio
+           Resume
         </Link>
       </li>
     </ul>
