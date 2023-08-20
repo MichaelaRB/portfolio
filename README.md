@@ -7,14 +7,6 @@
 
  [Usage](#usage)
 
- [Installation](#installation)
-
- [Contribution Guidelines](#guidelines)
-
- [Tests](#tests)
-
- [Licenses](#licenses)
-
  [Questions](#questions)
 
 ## Description
@@ -22,17 +14,6 @@
 
 ## Usage
  You can access the portfolio at https://michaelarbrown.netlify.app/.
-
-## Installation
- 
-
-## Guidelines
- 
-
-## Tests
- 
-
-
 
 ## Questions
  Please direct any questions to:
