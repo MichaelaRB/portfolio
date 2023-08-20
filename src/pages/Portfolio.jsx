@@ -9,7 +9,7 @@ import globe from '../assets/globe.png';
 export default function Blog() {
     return (
       <div>
-        <h1>Portfolio</h1>
+        <h2>Portfolio</h2>
       <div class="container w-50 d-flex flex-wrap">
         <div class="card text-bg-dark mt-5">
           <img src={petFacts} class="card-img-top" alt="The deployed Pet Facts website."/>
