@@ -1,6 +1,6 @@
 export default function Contact() {
     return (
-      <div class="card bg-dark text-light p-3">
+      <div class="card bg-dark text-light p-3 d-flex justify-content-center">
         <section class="mb-4">
 
             <h2 class="h1-responsive font-weight-bold text-center my-4">Contact Me</h2>
