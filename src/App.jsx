@@ -5,15 +5,15 @@ import Nav from './components/NavTabs';
 function App() {
   return (
     <>
-    <navbar class="navbar navbar-expand-lg navbar-light bg-dark text-light">
+    <navbar class="navbar navbar-expand navbar-light bg-dark text-light">
         <h1>Michaela</h1>
-        <section class="navbar-nav mx-auto">
+        <section class="navbar-nav mx-auto text-light">
         <Nav />
         </section>
 
     </navbar>
 
-      <main className="mx-3 d-flex justify-content-center">
+      <main className="mx-3">
         <Outlet />
       </main>
     </>
